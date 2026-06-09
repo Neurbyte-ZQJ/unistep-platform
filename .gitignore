@@ -1,0 +1,43 @@
+# Go
+backend/unistep-server.exe
+backend/data/*.db
+backend/data/*.db-shm
+backend/data/*.db-wal
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Trae agent
+.agents/
+.trae/
+.impeccable/
+skills-lock.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/

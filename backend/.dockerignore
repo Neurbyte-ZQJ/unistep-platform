@@ -1,0 +1,6 @@
+# 依赖和构建产物
+vendor/
+data/
+*.db
+*.exe
+*.test
